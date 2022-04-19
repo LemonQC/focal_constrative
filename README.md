@@ -1,1 +1,1 @@
-# focal_constrative
+The code will be released upon the paper acceptance.
